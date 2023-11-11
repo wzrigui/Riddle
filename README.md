@@ -8,5 +8,4 @@ docker-compose exec php bash
 ```
 composer install
 ```
-url
-http://localhost/yoomday
+
